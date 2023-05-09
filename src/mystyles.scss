@@ -1,0 +1,15 @@
+$back-color: rgb(47, 123, 255);
+$font-color: white;
+
+h1 {
+  color: $font-color;
+  background-color: $back-color;
+}
+
+img {
+  width: 200px;
+}
+
+div {
+  text-align: center;
+}
